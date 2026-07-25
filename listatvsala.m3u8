@@ -4,7 +4,7 @@ https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it@SD" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="50Canale.it@SD",50 Canale 
-https://cdn122-it.azotosolutions.com:8443/cdnedge37/canale50/chunklist_w1883041355.m3u8
+https://cdn78-at.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it@SD" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="Music",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="7GoldEmiliaRomagna.it@SD",7 Gold 
@@ -68,7 +68,7 @@ https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/chunklist.m3u8?token=5487
 #EXTINF:-1 tvg-id="CanaleUno.it@SD",Canale Uno
 https://rst.saiuzwebnetwork.it:8081/canaleuno/index.m3u8
 #EXTINF:-1 tvg-id="CarinaTV.it@SD" tvg-logo="https://i.imgur.com/ANGD7gv.png" group-title="Undefined",CarinaTV
-https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
+https://57068da1deb21.streamlock.net/radiocarina/radiocarina/chunklist_w333953082.m3u8
 #EXTINF:-1 tvg-id="ClassCNBC.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" group-title="Business",Class CNBC
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it@SD" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="Music",Company TV
@@ -156,7 +156,7 @@ https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/p
 #EXTINF:-1 tvg-id="LaNuovaTV.it@SD",La Nuova TV
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/chunklist_w828900981.m3u8
 #EXTINF:-1 tvg-id="LAQTV.it@SD",La Q TV
-https://frn.rtsp.me/kCNDj1L0LQusaDdWzL8cSw/1782577464/hls/dkrZ77K2.m3u8?ip=212.24.16.61
+https://lo.rtsp.me/aJBy5qaIr7v4XEiHX5QiHA/1784933814/hls/dkrZ77K2.m3u8?ip=193.36.234.170
 #EXTINF:-1 tvg-id="LaTR3Marsala.it@SD" tvg-logo="https://i.imgur.com/R4sqZQu.png" group-title="General",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-id="LazioTV.it@SD" tvg-logo="https://i.imgur.com/TNLD9yD.png" group-title="General",Lazio TV
@@ -168,7 +168,7 @@ https://streamcdng3-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8k
 #EXTINF:-1 tvg-id="LombardiaTV.it@SD",Lombardia TV
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LunaTV.it@SD" tvg-logo="" group-title="General",Luna TV
-https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+https://64b16f23efbee.streamlock.net/lunatv/lunatv/chunklist_w1736620559.m3u8
 #EXTINF:-1 tvg-id="LUnioneTV.it@SD" tvg-logo="" group-title="General",L' Unione TV
 https://streamcdnr8-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S17699833/dA5a4C7jUFdb/chunklist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",m2o TV
@@ -220,7 +220,7 @@ https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaFree.it@SD" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" group-title="General",PrimaFree
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimAntennaTV.it@SD" tvg-logo="https://i.imgur.com/4Bx2321.png" group-title="General",PrimAntenna TV 
-https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+https://64b16f23efbee.streamlock.net/primantenna14/primantenna14/chunklist_w1876875137.m3u8
 #EXTINF:-1 tvg-id="Primocanale.it@SD" tvg-logo="https://i.imgur.com/eunZ2Sa.png" group-title="Undefined",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PromovideoTV.it@SD" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="General",Promovideo TV
@@ -406,7 +406,7 @@ https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w976023
 #EXTINF:-1 tvg-id="Teleliberta.it@SD" tvg-logo="https://i.imgur.com/424KS6J.png" group-title="Undefined",Teleliberta 
 https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiguriaSud.it@SD" tvg-logo="https://i.imgur.com/OxgSGUW.png" group-title="Undefined",Tele Liguria Sud
-https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/chunklist_w544428474.m3u8
 #EXTINF:-1 tvg-id="TeleMajg.it@SD" tvg-logo="https://i.imgur.com/j5fnQ1h.png" group-title="General",TeleMajg 
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemantova.it@SD" tvg-logo="https://i.imgur.com/WYXiov6.png" group-title="General",Telemantova 
