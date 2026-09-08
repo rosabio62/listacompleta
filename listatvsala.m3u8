@@ -112,7 +112,7 @@ https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="GOTVCanale163.it@SD" tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="General",GO-TV Canale 163
 https://64b16f23efbee.streamlock.net/gooo/gooo/chunklist_w1195703766.m3u8
 #EXTINF:-1 tvg-id="GoldTV.it@SD" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Entertainment",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/goldtv/_definst_/goldtv/chunklist_w1692065004.m3u8
 #EXTINF:-1 tvg-id="GoldTVSat.it@SD" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Entertainment",Gold TV Sat
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-id="GranducatoTV.it@SD",Granducato TV
@@ -130,7 +130,7 @@ https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="Italia2TV.it@SD" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Undefined",Italia 2 TV
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia7.it@SD" tvg-logo="https://i.imgur.com/xc0kUHk.png" group-title="Undefined",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/italia7/_definst_/italia7/chunklist_w1516655319.m3u8
 #EXTINF:-1 tvg-id="Italia8Prestige.it@SD",Italia 8 Prestige
 https://64b16f23efbee.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia9Network.it@SD",Italia 9 Network
@@ -160,7 +160,7 @@ https://lo.rtsp.me/aJBy5qaIr7v4XEiHX5QiHA/1784933814/hls/dkrZ77K2.m3u8?ip=193.36
 #EXTINF:-1 tvg-id="LaTR3Marsala.it@SD" tvg-logo="https://i.imgur.com/R4sqZQu.png" group-title="General",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-id="LazioTV.it@SD" tvg-logo="https://i.imgur.com/TNLD9yD.png" group-title="General",Lazio TV
-https://streaming.softwarecreation.it/LazioTv/LazioTv/chunklist_w451070825.m3u8
+https://5f11919dca3bd.streamlock.net/laziotv/_definst_/laziotv/playlist.m3u8
 #EXTINF:-1 tvg-id="LeCronacheTV.it@SD" tvg-logo="https://i.imgur.com/d8ziiEJ.png" group-title="General",Le Cronache TV
 http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="LiraTV.it@SD" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="News",Lira TV
@@ -186,13 +186,13 @@ https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCOneTV.it@SD",NBC One TV
 https://media2.streambrothers.com:19360/8160-1/8160-1.m3u8
 #EXTINF:-1 tvg-id="NoiTV.it@SD",Noi TV
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJlMWQxZDVlZTA0Yzc1YzhlZDY1ZWM5NjNhNTRjMjE1NyIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzgyNTM0ODYzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.UBBkr-sPte5KE9jqHSHlDGImuaJUR6hYob7ljxU9kVUWd3iMB8hb1zocZB_SeRzynLXrYaYH8uT6oEFRVShRpNPvFDHKfYkdcSMlEzUcSKRDB4KsLDgYDulKQ6emLEvAx8nFzf0rJgzswqiIuQkH6iDbgvMnBRy9dtaswVT5FZnymVJpznuYkRI-dy_qD9YQR6uuMjhAN_2hORrGElT0lY5txB9jikyR_kSzkTwbei2eo1kPH9Qpae3C62zUyUn0Fmrv0_939rhzPv8GmqlzhiirSsnjgeDRy3aY2BY6bC1KcvwrxZSOyC0KypCGS1n1dKF0NffPeeHTnWyKofZC1Q/manifest/video.m3u8?CMCD=cid%3D%221782491663271%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2278d73ff6-a1bb-4101-bac6-ae6363bcfe6e%22%2Csu
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2ZTI5NDFiYzEzY2EwMDhmNDRkODQ5OWEwOWQ1ZDdlNCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg4ODk5NTY4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.D0HtZYWGwL2wl20e49HvHbC7WZbE1m5qmbVte8Q-3bSm3LwoQsRVKYBbWs1LOmTiV7shzJC9uSUssQfXb1cuR4BEVazir1jE19f5wyPwlzAD0CBIqZLLWNLYNatGdBzgbwd_D5w77ZI-YmX2xsIcnbKcnC5CeuY2jOKLkrId8Auq6GIf-a2rHfKbeYsgk1fEocgdSPkHsS8enYOlM14wsNGp-vwn84siV-x_xJtoQVNVgjp-ZPDryLloMQ-alFIkJRrvA_vECev38KUUHGOYOsC4LuHNLNZpgTTET8EB_eH_-wMAl36iTgxznm7KKeKtbAH62_Owq0lM4C7CiAXe1g/manifest/video.m3u8?CMCD=cid%3D%221788856370163%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2203ecf192-ef79-4a96-8d81-b25249599085%22%2Csu
 #EXTINF:-1 tvg-id="NoraTV.it@SD",Nora TV
 https://57068da1deb21.streamlock.net/noratv/noratv/chunklist_w948202964.m3u8
 #EXTINF:-1 tvg-id="NTIMedia.it@SD",NTI Media
 https://www.ntimedia.it/video/S0B/S0B_720p-.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it@SD" tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="General",Odeon 24
-https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/chunklist_w585546881.m3u8
 #EXTINF:-1 tvg-id="OndaNovaraTV.it@SD" tvg-logo="https://i.imgur.com/DTxhOhT.png" group-title="General",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1 tvg-id="OndaTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg" group-title="General",Onda TV
@@ -342,7 +342,7 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 #EXTINF:-1 tvg-id="SuperTennis.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Sports",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="T9.it@SD" tvg-logo="https://i.imgur.com/kQKzpYj.png" group-title="General",T9 
-https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/tnove/_definst_/tnove/chunklist_w1539769228.m3u8
 #EXTINF:-1 tvg-id="TaurianovaTV.it@HD" tvg-logo="https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg" group-title="General",Taurianova TV 
 https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TCF.it@SD",TCF
@@ -420,7 +420,7 @@ https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks
 #EXTINF:-1 tvg-id="TeleMistretta.it@SD" tvg-logo="https://i.imgur.com/BLhvyEi.png" group-title="Undefined",TeleMistretta 
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemolise.it@SD" tvg-logo="https://i.imgur.com/aTs88Es.png" group-title="Undefined",Telemolise 
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+https://654be07bf207c.streamlock.net/Telemolise4K/_definst_/Telemolise4K/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemontecarlo.it@SD" tvg-logo="https://i.imgur.com/B0NbjcT.png" group-title="Undefined",Telemontecarlo 
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.it@SD" tvg-logo="https://telenord.it/assets/images/logo.png" group-title="Undefined",Telenord 
@@ -452,7 +452,7 @@ https://stream.trsnotizie.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TeleRama.it@SD" tvg-logo="https://i.imgur.com/0YTYXB9.png" group-title="General",TeleRama 
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRegione74.it@SD",Tele Regione 74
-https://streaming.softwarecreation.it/TR118/TR118/chunklist_w295020194.m3u8
+https://5f11919dca3bd.streamlock.net/teleregione74/_definst_/teleregione74/chunklist_w1921245616.m3u8
 #EXTINF:-1 tvg-id="TeleRegioneToscana.it@SD",Tele Regione Toscana
 https://srvx1.selftv.video/teleregionetoscana/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleReggio.it@SD",Tele Reggio
@@ -464,7 +464,7 @@ https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSanDomenico.it@SD" tvg-logo="https://i.imgur.com/l52v9uv.png" group-title="Religious",TeleSanDomenico 
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSardegna.it@SD",Tele Sardegna
-https://streamcdng7-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/chunklist.m3u8
+https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95701787/z3dZO4LpABmG/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSpazioMessina.it@SD",Telespazio Messina
 https://648026e87a75e.streamlock.net/telemessina/telemessina/chunklist_w316610876.m3u8
 #EXTINF:-1 tvg-id="TeleSpazioTV.it@SD",Telespazio TV
@@ -504,7 +504,7 @@ https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC06
 #EXTINF:-1 tvg-id="TRCBologna.it@SD",TRC Bologna
 https://trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8?start=now-1h
 #EXTINF:-1 tvg-id="TRCModena.it@SD",TRC Modena
-https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/media-video-stream-1.m3u8?start=now-1h&end=now
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8
 #EXTINF:-1 tvg-id="TRSport.it@SD" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",Tele Romagna Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TrentinoTV.it@SD" tvg-logo="https://i.imgur.com/Xcw3TRB.png" group-title="Undefined",Trentino TV 
