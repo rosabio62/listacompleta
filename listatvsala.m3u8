@@ -23,6 +23,8 @@ https://gr2.fluid.stream/GR_sport/livestream/chunklist_w1231208055.m3u8?FLID=1
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Antenna2TV.it@SD" tvg-logo="https://i.imgur.com/kNrzk3X.png" group-title="General",Antenna 2 TV
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antenna3Lombardia.it@SD",Antenna 3 Lombardia
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1789065898~acl=/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/*~hmac=0b9fdb02315b6b5d7c558a2d9e545a187876182758515a2a3d7b5f70ad416e6a
 #EXTINF:-1 tvg-id="AntennaDelMediterraneo.it@SD",Antenna del Mediterraneo
 https://cdnvideo.webvideocore.net/enc4_lvfjrgs1ua5dtpfh1htqg2d657kopvmj5m5pmj068v7ulcmcm0e7apkpkepe87nrlrvpbv0g3aiu24uj9pela7ha97vj2rlomqlhcucvum9563p13i0b8450nufa71hpl/index.m3u8?clip_id=ajraqwugiagc
 #EXTINF:-1 tvg-id="AntennaSicilia.it@SD",Antenna Sicilia
