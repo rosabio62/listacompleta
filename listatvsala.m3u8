@@ -8,7 +8,7 @@ https://cdn100-ita.azotosolutions.com:8443/cdnedge37/canale50/chunklist_w1797867
 #EXTINF:-1 tvg-id="51RadioTV.it@SD" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="Music",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="7GoldEmiliaRomagna.it@SD",7 Gold 
-https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+https://streamcdng11-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD" tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Music",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="7YOUME.it@HD" tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Music",7 YOU & ME
@@ -24,11 +24,11 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Antenna2TV.it@SD" tvg-logo="https://i.imgur.com/kNrzk3X.png" group-title="General",Antenna 2 TV
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Antenna3Lombardia.it@SD",Antenna 3 Lombardia
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1792537411~acl=/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/*~hmac=473db996786f46e9121e49f3998e2b2e6fd6782ef944739d59e82245e4837266
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1793316252~acl=/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/*~hmac=720059273007062b432236bbe01f80f41d169e4b044d7f4bceba63a2d01cfa52
 #EXTINF:-1 tvg-id="Antenna3Toscana.it@SD",Antenna 3 Toscana
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 #EXTINF:-1 tvg-id="AntennaDelMediterraneo.it@SD",Antenna del Mediterraneo
-https://cdnvideo.webvideocore.net/enc4_lvfjrgs1ua5dtpfh1htqg2d657kopvmj5m5pmj068v7ulcmcm0e7apkpkepe87nrlrvpbv0g3aiu24uj9pela7ha97vj2rlomqlhcucvum9563p13i0b8450nufa71hpl/index.m3u8?clip_id=ajraqwugiagc
+https://cdnvideobak.webvideocore.net/cdn5_lohcrsrc5nlljsu0vv4hmjsnkd7pij36uv0q8hvr465jbcbobi30ot785p4g9n6sqhtjcna66pbj858k3hkivekgrknclsobppm2j9gs084qa8dnatf6c47dfv4elnndh/index.m3u8?clip_id=ajraqwugiagc
 #EXTINF:-1 tvg-id="AntennaSicilia.it@SD",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1 tvg-id="AntennaSud.it@SD" tvg-logo="https://i.imgur.com/Sf0bA4P.png" group-title="General",Antenna Sud
@@ -54,7 +54,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale2Altamura.it@SD" tvg-logo="https://i.imgur.com/7XXdN5T.png" group-title="General",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale3Toscana.it@SD",Canale 3 Toscana
-https://stream14.xdevel.com/video0s976737-3247/stream/video0s976737-1453/streamin_source/chunks.m3u8?nimblesessionid=319914
+https://stream2.xdevel.com/video0s976737-2660/stream/chunks.m3u8?nimblesessionid=284686608
 #EXTINF:-1 tvg-id="Canale6.it@SD",Canale 6
 https://amg17293-dynit-amg17293c1-samsung-it-2676.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg17293-dynitsrl-bleach-samsungit/cb563e1f796c678a84cb3978d6f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dac6852db80148b6f4adafb8c2360625f5c98435ee3b24aa6fae10917d06af5ac1b4f927d58e68314c8c94db8d681469b41d227a710ce90f1d8811788a5ab54f803f17a0d51260ff1ea1f88f96e9ffe873341f61629420d1be2ad878c2356ed5c777dcad8ee8b4acf27d3d35beb0d36bf13d65b870f997fb800a9e63ccdc7d0c476620697f069480987f8faca915b32b975b5a3f9cd4c7896fb157149bb03b24e3019a0cdf430abee34bf983edfc8037139c4820b9a8da2bce1b1804fee49a0adefb90d72714d252fa340f8ea07b228d96be6cd1c314c4c36cef03495b4f634420acc01213fa47261dbf2bfc1ba272fcb6c0228990abb7e301c00b0f11e9f4bdc8f2e63992370e57f5da91a5d14218dd1c68aa45517231bccb019120625b7fd2a989d27bc7f334907fcc023524076b0b18469203f63ca49e8d285b4395940a4c0c4f0c45c2f147939664cdab2a920c0cef72013409508667822445ed625c679d3057e052ce217c7e35c27d248727ba6ef14756e41ba84f18d8eddcf04927ad0c4f2706f185171b23e00693f87e7c309b368052e3a6e81096551b4480f11bddb9ab3ebf504a4ab6da43c6d037085a147336e7c47235bcbde38ad1d88f53ab694cd50c995fd314d9733ae0450d390eb65f6e98ed05c4df78e520a6c83dc37cf107c9246344a0542b26ad62e2d3dcd172405b635d15ed9e37e3316/151/1920x1080_5129264/index.m3u8
 #EXTINF:-1 tvg-id="Canale7.it@SD" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" group-title="General",Canale 7
@@ -183,6 +183,8 @@ https://5f22d76e220e1.streamlock.net/mediasud/mediasud/chunklist_w2047337613.m3u
 https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it@SD" tvg-logo="" group-title="Religious",Medjugorje Italia TV
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Milanow.it@SD",Milanow
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/56638.ts
 #EXTINF:-1 tvg-id="MinformoTV.it@SD" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="News",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCOneTV.it@SD",NBC One TV
@@ -393,6 +395,8 @@ https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w976023
 https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiguriaSud.it@SD" tvg-logo="https://i.imgur.com/OxgSGUW.png" group-title="Undefined",Tele Liguria Sud
 https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/chunklist_w544428474.m3u8
+#EXTINF:-1 tvg-id="TeleLombardia.it@SD",Telelombardia
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1793316490~acl=/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/*~hmac=461745c99937c78bd52097e43c34713d75c490bdde263a9b361ef950ddc66e26
 #EXTINF:-1 tvg-id="TeleMajg.it@SD" tvg-logo="https://i.imgur.com/j5fnQ1h.png" group-title="General",TeleMajg 
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemantova.it@SD" tvg-logo="https://i.imgur.com/WYXiov6.png" group-title="General",Telemantova 
@@ -486,7 +490,7 @@ https://stream9.xdevel.com/video1s975436-830/stream/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="TLTMolise.it@SD" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title="General",TLT Molise 
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-id="TOPCalcio24.it@SD",TOP Calcio 24
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1782562571~acl=/*~hmac=1b67a7105fe63fe30880c79781ffb758be70b4dfded91796e0e02c5f1823c427
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1793316860~acl=/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/*~hmac=4d45ad504b79b738f057303edafaf33ced6fe1018e65166ae875492b18100dc0
 #EXTINF:-1 tvg-id="TRCBologna.it@SD",TRC Bologna
 https://trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8?start=now-1h
 #EXTINF:-1 tvg-id="TRCModena.it@SD",TRC Modena
