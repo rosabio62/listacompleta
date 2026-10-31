@@ -184,7 +184,7 @@ https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it@SD" tvg-logo="" group-title="Religious",Medjugorje Italia TV
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Milanow.it@SD",Milanow
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/56638.ts
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/D7341CF2CDE7BBACB9385310F5669AAF89684847/25948.ts
 #EXTINF:-1 tvg-id="MinformoTV.it@SD" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="News",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCOneTV.it@SD",NBC One TV
@@ -273,6 +273,8 @@ https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 https://streamcdnr17-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S29887338/irn4sIk4aeF2/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete55.it@SD" tvg-logo="https://i.imgur.com/UtS9YLc.png" group-title="Undefined",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="ReteA.it@SD",Rete A
+https://diretta.rete-a.tv/api/v1/videos/85e81d59-1e07-4f9f-b5fe-9fee25d96467/views
 #EXTINF:-1 tvg-id="ReteBiellaTV.it@SD" tvg-logo="https://i.imgur.com/I4OVxIb.png" group-title="Undefined",Rete Biella TV 
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="ReteOro.it@SD" tvg-logo="https://i.imgur.com/3oYiBSz.png" group-title="Undefined",Rete Oro 
